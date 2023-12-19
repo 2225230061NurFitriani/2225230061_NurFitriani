@@ -1,0 +1,48 @@
+h1 {
+    text-align: center;
+    font-size: xx-large;
+    font-family: Lucida Handwriting;
+   background-color: #D8BFD8;
+}
+.table {
+    font-family: Garamond;
+    font-size: 20px;
+    background-color: blanchedalmond;
+    color: blueviolet !important;
+}
+.input box{
+    width: 100%;
+    height: 50px;
+    background-color: red;
+}
+thead {
+    font-family: Papyrus;
+    background-color: aliceblue;
+}
+.tampil{
+    width: 600px;
+    margin: 200px;
+    border: 1px solid #D8BFD8;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: #D8BFD8;
+    text-align: center;
+    font-size: 100px;
+    font-family: Garamond;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url('/baground/baground7.jpg');
+    background-size: 1400px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
